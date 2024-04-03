@@ -20,3 +20,4 @@ now open localhost
  http://localhost:8080 
 
 
+![image](https://github.com/rashadnasirli98/dummykube/assets/137173120/ba8f4de0-3969-4042-832d-13af321b554d)
