@@ -1,4 +1,4 @@
-clone this project 
+clone this project   then 
 Minikube requires a hypervisor to create and manage virtual machines.   so Install hyperkit
 1: brew install hyperkit  
 
